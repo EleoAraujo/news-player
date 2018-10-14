@@ -1,0 +1,7 @@
+{
+  "name": "NewsPlayer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
